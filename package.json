@@ -1,0 +1,20 @@
+{
+  "name": "library-manager",
+  "version": "1.0.0",
+  "description": "Pluralsight tutorial project based on LibraryManager project written by Brice Wilson",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/compumike08/pluralsight-ts-library-manager.git",
+  "author": "Michael Hadjiosif",
+  "license": "ISC",
+  "homepage": "https://github.com/compumike08/pluralsight-ts-library-manager",
+  "dependencies": {
+    "lodash": "^4.5.1"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.66"
+  },
+  "private": true
+}
