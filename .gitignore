@@ -1,0 +1,12 @@
+js/**
+
+node_modules/
+
+.idea
+**/*.iml
+
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+
+**/.DS_Store
